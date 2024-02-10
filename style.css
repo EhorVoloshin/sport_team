@@ -13,7 +13,8 @@ body {
  display: flex;
  flex-direction: column;
  background-color: #3BDA00;
- color:rgb(255, 186, 106);
+ color:rgb(255, 255, 255);
+ font-weight:bold ;
  font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -69,7 +70,7 @@ border-left: 5px solid green;
 transition: border 1.0s ease,color 1.0s ease 1.0s;
 }
 footer{
-    border: gold 2px solid;
+    border: gold 5px solid;
     flex: 0 1 100%;
 }
 section{
