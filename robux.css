@@ -13,7 +13,6 @@ body {
     display: flex;
     flex-direction: column;
     background-color: #3BDA00;
-    color:rgb(255, 186, 106);
     font-family: Arial, Helvetica, sans-serif;
    }
    
@@ -27,7 +26,7 @@ body {
        border: dashed 10px chartreuse;
    }
    
-   .roblox_img{
+   .robux_img{
        float: right;
        border-radius: 50px;
        margin: 10px 10px 10px 10px;
@@ -69,7 +68,7 @@ body {
    transition: border 1.0s ease,color 1.0s ease 1.0s;
    }
    footer{
-       border: gold 2px solid;
+       border: gold 5px solid;
        flex: 0 1 100%;
    }
    section{
